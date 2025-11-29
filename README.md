@@ -18,7 +18,7 @@ This project uses Geographic Information Systems (GIS) to evaluate how effective
 
 <h2>GIS Maps</h2>
 
-![MAP 1](relative/path/to/image.png)
+![MAP 1](https://github.com/Ivan-dlpm/Mapping-Equity/blob/main/Layout1.2.pdf)
 
 <p align="center">
 Launch the utility: <br/>
