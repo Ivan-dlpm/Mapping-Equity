@@ -18,33 +18,21 @@ This project uses Geographic Information Systems (GIS) to evaluate how effective
 
 <h2>GIS Maps</h2>
 
-![MAP 1](https://github.com/Ivan-dlpm/Mapping-Equity/blob/main/Layout1.2.pdf)
-
 <p align="center">
-Launch the utility: <br/>
-<img src="https://imgur.com/gB6S0tD" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+Map 1: Nonprofits and vulnerable populations  <br/>
+<img src="https://imgur.com/mxkKs5j.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Map 2: Nonprofits and vulnerable populations (Radios) <br/>
+<img src="https://imgur.com/yj4wiF2.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Map 3: Nonprofits and Redlining  <br/>
+<img src="https://imgur.com/agVmouG.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
+
