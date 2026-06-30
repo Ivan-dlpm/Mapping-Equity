@@ -155,4 +155,3 @@ This project was completed at **Montclair State University** in collaboration wi
 
 **Skills demonstrated:** GIS spatial analysis (ArcGIS Pro/Online), overlay and buffer analysis, spatial join techniques, geocoding, data classification (Natural Breaks/Jenks), equity and policy research, interactive web map deployment
 
----
