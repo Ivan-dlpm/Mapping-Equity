@@ -14,7 +14,6 @@ This project uses Geographic Information Systems (GIS) to evaluate how effective
 <h2> Excel </h2>
 
 - <b>[GIS project (nonprofit info with SDG tag)](https://docs.google.com/spreadsheets/d/1l0ky42FYGiqcaOuZoQJyX_2gCd6XuC4St6S5J6F-cJU/edit?usp=sharing)</b>
-- <b>[Survay Data](https://docs.google.com/spreadsheets/d/1Ry0JlrJwZzfLHGjwyr0d_mVcgXK8ALT41-NceoIt9_w/edit?usp=sharing)</b>
 
 <h2>GIS Maps</h2>
 
